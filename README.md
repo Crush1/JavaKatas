@@ -43,4 +43,3 @@ Each of the bike varieties can also have three different types of handlebars:
 - StraightHandlebar: speed - 1
 
 Create an interface that allows for simple building of all these bike varieties. The goal here is to implement a way to create customized objects without knowing too much about the internal details of these objects.
-*Cix Note*:Bubble sorter is a simple application that takes a list of numbers, and steps through it one element at a time, compairing that element to the next element.  If it is greater than the next element it switches places with the element, if not it does nothing.  Then it moves on to the next element and does the same.  This program will go through this process over and over until such a time where it doesn't have to switch any elements in the array.  Thus it is sorted.
